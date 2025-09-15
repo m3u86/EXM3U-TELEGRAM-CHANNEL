@@ -19,15 +19,15 @@
 
  ### <i class="fa-brands fa-pix">
 ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
-# 📡 Painel Iptv
+
 
   👨‍💻 Web Player iptvsmarters(01)
 
  http://webtv.iptvsmarters.com/index.php?adduser
 
-  👨‍💻 Web Player iptvsmarters(02)
+  👨‍💻 Web Player iptvsmarters pro(02)
 
- http://webtv.iptvblinkplayer.com/
+http://webtv-new.iptvsmarters.com/
 
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
@@ -38,10 +38,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
-| Iptv1  | `ere3444h`                      |`agape`                                |  http://tooontv.com:999       |
-| Iptv2  | `YKb44BNfjaAg`                  |`Z6GRGPUMT3R4`                         |  http://tvlatino.club:2082    |
-| Iptv3  | `Q3sdXWJw8Kxxx22222`            |`pKefJHyVKExxxxxxxxa12`                |  http://vivofibra.uk:80       |
-| Iptv4  | `cQnq6G`                        |`652882`                               |  http://cord-cutter.net:8080  |
-| Iptv5  | `Tonyp`                         |`yPKEJfH4Nh`                           |  http://5startv.xyz:8080      |
-
-
+| Iptv1  | md231a                          |abc126ad                               |http://principal2.maxpainel.net         |                  
