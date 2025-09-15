@@ -1,4 +1,4 @@
-
+ 
 #EXM3U-TELEGRAM-CHANNEL-Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
 "Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
