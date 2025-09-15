@@ -1,4 +1,3 @@
-![download](https://github.com/user-attachments/assets/b4624407-9dd2-4499-9e98-24dc9e246ddc)
 
 # CANAL-DE-TELEGRAM-EXM3U - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
