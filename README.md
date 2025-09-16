@@ -3,9 +3,9 @@
 "Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
 
-* 👉 <a href="https://www.mediafire.com/file/4j3fkiyxbmzqlsc/IPTV_Smarters_Pro_v4.0.3_.apk/file" download="filename">Clique aqui para baixar no Android-Versão 2024 Premium</a>
+* 👉 <a href="https://www.mediafire.com/file/4j3fkiyxbmzqlsc/IPTV_Smarters_Pro_v4.0.3_.apk/file" download="filename">Clique aqui para baixar no Android-Versão 2025 Premium</a>
 
-* 👉 <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
+* 👉 <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows<a/b> 
 
 ### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
 #
