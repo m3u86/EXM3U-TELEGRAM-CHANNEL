@@ -1,4 +1,8 @@
-  #EXM3U-TELEGRAM-CHANNEL-CANAIS FILMES E SERIES
+Quer canais fechados, filmes e séries sem pagar nada? Todo dia liberamos listas IPTV fresquinhas para você aproveitar no  celular,  TV Box,  computador ou  Smart TV!
+Leia mais em https://htforum.net/threads/listas-iptv-gratis-atualizadas-em-17-09-2025.5216/
+Não perca tempo! Tenha acesso às listas mais completas e atualizadas, direto no seu dispositivo. Diversão garantida e 100% gratuita.
+Leia mais em https://htforum.net/threads/listas-iptv-gratis-atualizadas-em-17-09-2025.5216/
+#EXM3U-TELEGRAM-CHANNEL-CANAIS FILMES E SERIES
 ### <i class="fa-brands fa-pix">
 "Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
