@@ -35,3 +35,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  | md231a                          |abc126ad                               |http://principal2.maxpainel.net         |                  
+| Iptv2  | OQ9497                          |Od7715                                 |http://bs21.me:80                       |
