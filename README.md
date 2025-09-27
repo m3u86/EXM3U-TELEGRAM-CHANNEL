@@ -39,5 +39,5 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   | Login                  | Senha                                 |      Url                               |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
-| Iptv1  | md231a                          |abc126ad                               |http://principal2.maxpainel.net         |                  
-| Iptv2  | OQ9497                          |Od7715                                 |http://bs21.me:80                       |
+| Iptv1  |michele150                       |mrtv20xx                               |http://dnsit.click:80                   |                  
+| Iptv2  |101199                           |101199                                 |http://yesme.shop                       |
