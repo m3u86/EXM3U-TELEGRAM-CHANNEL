@@ -22,13 +22,18 @@ lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e série
 ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
 
-  👨‍💻 Web Player iptvsmarters(01)
+ 👨‍💻 Web Player iptvsmarters(01)
 
  http://webtv.iptvsmarters.com/index.php?adduser
 
-  👨‍💻 Web Player iptvsmarters pro(02)
+👨‍💻 Web Player iptvsmarters pro(02)
 
 http://webtv-new.iptvsmarters.com/
+
+👨‍💻 Web Player iptvblinkplayer (03)
+
+http://webtv.iptvblinkplayer.com/
+
 
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
