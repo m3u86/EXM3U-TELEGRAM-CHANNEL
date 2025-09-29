@@ -33,10 +33,10 @@ http://webtv-new.iptvsmarters.com/
 
 http://webtv.iptvblinkplayer.com/
 
+👨‍💻 Xtream Data Extractor - IPTV Template | WordPress IPTV Templates (04)
+https://www.iptvwell.com/xtream-data-extractor/ 
 
-https://www.iptvwell.com/xtream-data-extractor/ (04)
 
-Xtream Data Extractor - IPTV Template | WordPress IPTV Templates
 
 
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
