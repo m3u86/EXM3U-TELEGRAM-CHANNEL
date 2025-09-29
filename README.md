@@ -22,6 +22,7 @@ Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Ca
 ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
 👨‍💻 Web Player iptvblinkplayer (01)
+
 http://webtv.iptvblinkplayer.com/
 
 
