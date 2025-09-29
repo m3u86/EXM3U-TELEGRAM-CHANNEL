@@ -46,3 +46,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  |michele150                       |mrtv20xx                               |http://dnsit.click:80                   |                  
 | Iptv2  |101199                           |101199                                 |http://yesme.shop                       |
+| Iptv3  |801754780                        |499078140                              |http://trexth.xyz                       |
