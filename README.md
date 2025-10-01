@@ -1,4 +1,4 @@
-![68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d586c3362444e78636a426f626e6f774d584e6f4e47356f4e3235744f585a6b4d546471624463775a486b3259336b78656e45334e695a6](https://github.com/user-attachments/assets/a70e9a2d-09a7-406c-a27b-1086b00a9f06)
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/a0e22892-084e-4139-8f09-4addc23e8bd9" />
 
 lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e séries sem pagar nada Todo dia liberamos lista iptv fresquinhas para você aproveitar no celular, TV Box, computador ou Smart TV! perca tempo! Tenha acesso às listas mais completo atualizadas, direto no seu dispositivo Diversão garantida 100% gratuita
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
