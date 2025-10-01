@@ -51,4 +51,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|
 | Iptv1  |amcp72926                        |102031amcd                             |http://x.mx51.online:80                 |                  
 | Iptv2  |andersonpereiradejesus           |79996333730                            |http://dns.whazersnew.store             |
-| Iptv3  |801754780                        |499078140                              |http://trexth.xyz                       |
+| Iptv3  |801754780                        |499078140                              |http://trexth.xyz:80                    |
