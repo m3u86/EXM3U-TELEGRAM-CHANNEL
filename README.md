@@ -48,7 +48,6 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 ## Contas Para o Painel Iptv
 | Qualquer nome   |Username                |Password                               |URL                                     |
-|-----------------|------------------------|---------------------------------------|----------------------------------------|
-| IPTV1 |amcp72926                         |102031amcd                             |http://x.mx51.online:80                 |                  
-| IPTV2 |andersonpereiradejesus            |79996333730                            |http://dns.whazersnew.store             |
-| IPTV3 |801754780                         |499078140                              |http://trexth.xyz:80                    |
+|-----------------|------------------------|---------------------------------------|----------------------------------------|                  
+| IPTV1 |andersonpereiradejesus            |79996333730                            |http://dns.whazersnew.store             |
+| IPTV2 |801754780                         |499078140                              |http://trexth.xyz:80                    |
