@@ -52,3 +52,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | IPTV1 |andersonpereiradejesus            |79996333730                            |http://dns.whazersnew.store             |
 | IPTV2 |801754780                         |499078140                              |http://trexth.xyz:80                    |
 | IPTV3 |robbieoaks3hotmailcom             |615452339520                           |http://x.mx51.online                    |
+| IPTV4 |Carlitos3                         |pardieiros                             |http://arrepiado.xyz                    |
