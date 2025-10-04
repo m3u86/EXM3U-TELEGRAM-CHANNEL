@@ -21,11 +21,22 @@ Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Ca
  ### <i class="fa-brands fa-pix">
 ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
-👨‍💻 Web Player iptvblinkplayer (01)
+👨‍💻 Web Player iptvsmarters(01)
+
+http://webtv.iptvsmarters.com/index.php?adduser
+
+
+👨‍💻 Web Player iptvsmarters pro (02)
+
+http://webtv-new.iptvsmarters.com/
+
+
+👨‍💻 Web Player iptvblinkplayer (03)
 
 http://webtv.iptvblinkplayer.com/
 
-👨‍💻 Xtream Data Extractor - IPTV Template | WordPress IPTV Templates (02)
+
+👨‍💻 Xtream Data Extractor - IPTV Template | WordPress IPTV Templates (04)
 
 https://www.iptvwell.com/xtream-data-extractor/ 
 
