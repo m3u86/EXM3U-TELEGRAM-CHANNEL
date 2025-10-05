@@ -53,7 +53,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | IPTV1 |andersonpereiradejesus            |79996333730                            |http://dns.whazersnew.store             |
-| IPTV2 |739835993                         |832489493                              |http://trexth.xyz:80                    |
+| IPTV2 |801754780                         |499078140                              |http://trexth.xyz:80                    |
 | IPTV3 |52Joao52                          |52caetanO52                            |http://arrepiado.xyz                    |
 | IPTV4 |1433478                           |123456                                 |http://newoneblack.site                 |
 | IPTV5 |587denis55                        |asd541514                              |http://cdn7light.xyz                    |
