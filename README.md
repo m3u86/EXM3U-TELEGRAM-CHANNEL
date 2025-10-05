@@ -23,8 +23,7 @@ Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Ca
 
 👨‍💻 Web Player iptvsmarters(01)
 
-http://webtv.iptvsmarters.com/index.php?adduser
-
+http://webtv.iptvsmarters.com/switchuser.php?adduser
 
 👨‍💻 Web Player iptvsmarters pro (02)
 
