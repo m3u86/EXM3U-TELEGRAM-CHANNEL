@@ -53,6 +53,3 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | IPTV1 |801754780                         |499078140                              |http://trexth.xyz:80                    |
 | IPTV2 |38296615                          |95412513                               |http://newoneblack.site                 |
-| IPTV3 |587denis55                        |asd541514                              |http://cdn7light.xyz                    |
-| IPTV4 |01872820                          |25306933                               |http://jamboso.com                      |  
-| IPTV5 |441925149                         |769849994                              |http://p2king.redemais.click            |
