@@ -53,9 +53,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | IPTV1 |andersonpereiradejesus            |79996333730                            |http://dns.whazersnew.store             |
 | IPTV2 |801754780                         |499078140                              |http://trexth.xyz:80                    |
-| IPTV3 |52Joao52                          |52caetanO52                            |http://arrepiado.xyz                    |
-| IPTV4 |38296615                          |95412513                               |http://newoneblack.site                 |
-| IPTV5 |587denis55                        |asd541514                              |http://cdn7light.xyz                    |
-| IPTV6 |01872820                          |25306933                               |http://jamboso.com                      |  
-| IPTV7 |xe7suBRFhxU                       |rEAYgezHXJV                            |http://firetop1.site                    |
-| IPTV8 |441925149                         |769849994                              |http://p2king.redemais.click            |
+| IPTV3 |38296615                          |95412513                               |http://newoneblack.site                 |
+| IPTV4 |587denis55                        |asd541514                              |http://cdn7light.xyz                    |
+| IPTV5 |01872820                          |25306933                               |http://jamboso.com                      |  
+| IPTV6 |441925149                         |769849994                              |http://p2king.redemais.click            |
