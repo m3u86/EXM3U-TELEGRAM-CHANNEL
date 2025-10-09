@@ -52,4 +52,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | IPTV1 |801754780                         |499078140                              |http://trexth.xyz:80                    |
-| IPTV2 |38296615                          |95412513                               |http://newoneblack.site                 |
+| IPTV2 |1433478                           |123456                                 |http://newoneblack.site                 |
