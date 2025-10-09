@@ -51,5 +51,5 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
-| IPTV1 |801754780                         |499078140                              |http://trexth.xyz:80                    |
+| IPTV1 |739835993                         |832489493                              |http://trexth.xyz:80                    |
 | IPTV2 |1433478                           |123456                                 |http://newoneblack.site                 |
