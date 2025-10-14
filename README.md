@@ -53,5 +53,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | IPTV1 |294399798                         |374723449                              |http://trexth.xyz:80                    |
 | IPTV2 |1433478                           |123456                                 |http://newoneblack.site                 |
-| IPTV3 |vagneroliveira                    |Vo57943bt8                             |http://dns.whazersnew.store             |
-| IPTV4 |vagneroliveira                    |Vo57943bt8                             |http://dns.cafeexpresso.click           |
+| IPTV3 |913172268                         |775188754                              |http://v4.agenciav4.top                 |
