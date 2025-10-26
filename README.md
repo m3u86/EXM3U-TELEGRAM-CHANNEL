@@ -53,5 +53,6 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | IPTV1 |294399798                         |374723449                              |http://trexth.xyz:80                    |
 | IPTV2 |1433478                           |123456                                 |http://newoneblack.site                 |
-| IPTV3 |549470401                         |401742157                              |http://aguacomgas.shop                  |
+| IPTV3 |727898485695                      |329965491760                           |http://lideboxr.store:80                |
 | IPTV4 |4938258529                        |2944155744                             |http://maisonxp.click:8080              |
+| IPTV5 |wellington23109                   |eclh62u6a8h                            |http://play.1list.top                   |
