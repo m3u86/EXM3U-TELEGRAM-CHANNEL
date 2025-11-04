@@ -58,3 +58,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | IPTV5 |valmir                            |valmir                                 |http://dgpro.cloud:80                   |
 | IPTV6 |794498560                         |398266515                              |http://d.plmv.site                      |
 | IPTV7 |11982237031                       |luciano                                |http://ibo.playmove.org                 |
+| IPTV8 |Henrique927                       |Valizi674238                           |http://new.pionner.pro                  |
