@@ -40,6 +40,14 @@ http://webtv.iptvblinkplayer.com/
 https://www.iptvwell.com/xtream-data-extractor/ 
 
 
+M3U URL Converter (05)
+
+https://www.iptvwell.com/m3u-url-converter/
+
+
+Internet speed test
+
+https://www.iptvwell.com/internet-speed-test/
 
 
 Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
