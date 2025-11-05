@@ -59,3 +59,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | IPTV6 |794498560                         |398266515                              |http://d.plmv.site                      |
 | IPTV7 |11982237031                       |luciano                                |http://ibo.playmove.org                 |
 | IPTV8 |Henrique927                       |Valizi674238                           |http://new.pionner.pro                  |
+| IPTV9 |cariocabrasil                     |2023caceresAAA                         |http://new.pionner.pro                  |
