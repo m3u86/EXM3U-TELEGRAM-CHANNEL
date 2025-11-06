@@ -59,12 +59,12 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
-| IPTV1 |294399798                         |374723449                              |http://trexth.xyz:80                    |
-| IPTV2 |1433478                           |123456                                 |http://newoneblack.site                 |
-| IPTV3 |727898485695                      |329965491760                           |http://lideboxr.store:80                |
-| IPTV4 |4938258529                        |2944155744                             |http://maisonxp.click:8080              |
-| IPTV5 |valmir                            |valmir                                 |http://dgpro.cloud:80                   |
-| IPTV6 |794498560                         |398266515                              |http://d.plmv.site                      |
-| IPTV7 |11982237031                       |luciano                                |http://ibo.playmove.org                 |
-| IPTV8 |Henrique927                       |Valizi674238                           |http://new.pionner.pro                  |
-| IPTV9 |cariocabrasil                     |2023caceresAAA                         |http://new.pionner.pro                  |
+| LISTA IPTV (01) |294399798               |374723449                              |http://trexth.xyz:80                    |
+| LISTA IPTV (02) |1433478                 |123456                                 |http://newoneblack.site                 |
+| LISTA IPTV (03) |727898485695            |329965491760                           |http://lideboxr.store:80                |
+| LISTA IPTV (04) |4938258529              |2944155744                             |http://maisonxp.click:8080              |
+| LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
+| LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
+| LISTA IPTV (07) |11982237031             | luciano                               |http://ibo.playmove.org                 |
+| LISTA IPTV (08) |Henrique927             |Valizi674238                           |http://new.pionner.pro                  |
+| LISTA IPTV (09) |cariocabrasil           |2023caceresAAA                         |http://new.pionner.pro                  |
