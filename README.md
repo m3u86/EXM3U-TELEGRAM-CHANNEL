@@ -60,7 +60,7 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 ## Contas Para o Painel Iptv
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
-| LISTA IPTV (01) |294399798               |374723449                              |http://trexth.xyz:80                    |
+| LISTA IPTV (01) |241555307               |106251943                              |http://trexth.xyz:80                    |
 | LISTA IPTV (02) |1433478                 |123456                                 |http://newoneblack.site                 |
 | LISTA IPTV (03) |727898485695            |329965491760                           |http://lideboxr.store:80                |
 | LISTA IPTV (04) |4938258529              |2944155744                             |http://maisonxp.click:8080              |
