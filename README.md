@@ -67,3 +67,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
 | LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
 | LISTA IPTV (07) |11982237031             |luciano                                |http://ibo.playmove.org                 |
+| LISTA IPTV (09) |657733337               |114537559                              |http://srv3.site                        |
