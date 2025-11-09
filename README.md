@@ -1,5 +1,4 @@
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/a0e22892-084e-4139-8f09-4addc23e8bd9" /> 
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3bDNxcjBobnowMXNoNG5oN25tOXZkMTdqbDcwZHk2Y3kxenE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Computer man" style="width:350px;height:200px;">
 
 lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e séries sem pagar nada Todo dia liberamos lista iptv fresquinhas para você aproveitar no celular, TV Box, computador ou Smart TV! perca tempo! Tenha acesso às listas mais completo atualizadas, direto no seu dispositivo Diversão garantida 100% gratuita
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
