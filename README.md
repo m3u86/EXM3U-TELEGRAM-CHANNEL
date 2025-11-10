@@ -65,3 +65,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
 | LISTA IPTV (07) |11982237031             |luciano                                |http://ibo.playmove.org                 |
 | LISTA IPTV (08) |949631178               |167675332                              |http://srv3.site                        |
+| LISTA IPTV (09) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
