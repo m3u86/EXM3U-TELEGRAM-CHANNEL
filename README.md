@@ -4,7 +4,7 @@ lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e série
 📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕  📌🔘📺𝐓𝐕 𝐁𝐎𝐗  📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃  📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑  📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 @iptvatmosp2p
 🌟PROMOÇÃO ATMOS IPTV🌟  🎁 6 HORAS DE TESTE GRÁTIS 💚 PLANOS COM 2️⃣ ACESSOS 💰 R$ 20,00 MENSAL 💰 R$ 50,00 TRIMESTRAL 💰 R$ 90,00 SEMESTRAL 💰 R$ 170,00 ANUAL
 Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes.
-* 👉 <a href="https://www.mediafire.com/file/4j3fkiyxbmzqlsc/IPTV_Smarters_Pro_v4.0.3_.apk/file" download="filename">Clique aqui para baixar no Android-Versão 2025 Premium</a>
+
 
 👨‍💻 Web Player iptvsmarters(01)
 
