@@ -6,19 +6,6 @@ lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e série
 Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes.
 * 👉 <a href="https://www.mediafire.com/file/4j3fkiyxbmzqlsc/IPTV_Smarters_Pro_v4.0.3_.apk/file" download="filename">Clique aqui para baixar no Android-Versão 2025 Premium</a>
 
-* 👉 <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows<a/b> 
-
-### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
-#
-
-# 👍 Contribuições 
- Se você gosta dos meus projetos, considere fazer uma pequena doação.
-
-##
-
- ### <i class="fa-brands fa-pix">
-⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
-
 👨‍💻 Web Player iptvsmarters(01)
 
 http://webtv.iptvsmarters.com/switchuser.php?adduser
