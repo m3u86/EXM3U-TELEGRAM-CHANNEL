@@ -33,9 +33,8 @@ https://www.iptvwell.com/m3u-url-converter/
 Internet speed test (06)
 
 https://www.iptvwell.com/internet-speed-test/
-
-
-| Convert M3u to Code Xtream API           |                                       |                                        |
+.............................................................................................................................
+                                                                            
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01) |241555307               |106251943                              |http://trexth.xyz:80                    |
