@@ -35,13 +35,7 @@ Internet speed test (06)
 https://www.iptvwell.com/internet-speed-test/
 
 
-Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
-
-###
-#
-
-
-## Contas Para o Painel Iptv
+| Convert M3u to Code Xtream API           |                                       |                                        |
 | Qualquer nome   |Username                |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01) |241555307               |106251943                              |http://trexth.xyz:80                    |
