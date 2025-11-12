@@ -44,7 +44,7 @@ https://www.iptvwell.com/internet-speed-test/
 | LISTA IPTV (04) |4938258529              |2944155744                             |http://maisonxp.click:8080              |
 | LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
 | LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
-| LISTA IPTV (07) |11982237031             |luciano                                |http://ibo.playmove.org                 |
-| LISTA IPTV (08) |949631178               |167675332                              |http://srv3.site                        |
-| LISTA IPTV (09) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
-| LISTA IPTV (10) |9841434432              |8348637187                             |http://dnsit.click:80                   |
+| LISTA IPTV (07) |949631178               |167675332                              |http://srv3.site                        |
+| LISTA IPTV (08) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
+| LISTA IPTV (09) |9841434432              |8348637187                             |http://dnsit.click:80                   |
+| LISTA IPTV (10) |1428056                 |123456                                 |http://prata23.shop                     |
