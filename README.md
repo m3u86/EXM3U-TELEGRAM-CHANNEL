@@ -38,7 +38,7 @@ Internet speed test (06)
 https://www.iptvwell.com/internet-speed-test/
 
                                                                            
-| Qualquer nome   |Username                |Password                               |URL                                     |
+| Qualquer nome   | Username               |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01) |241555307               |106251943                              |http://trexth.xyz:80                    |
 | LISTA IPTV (02) |1433478                 |123456                                 |http://newoneblack.site                 |
