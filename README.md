@@ -1,6 +1,7 @@
 ![d19d7fcff6434c017733e12393f43ddd](https://github.com/user-attachments/assets/730b618a-11d7-47a7-8f14-165c39dc0276)
 
 GLOBOPLAY+TELECINE+PRIMEVIDEO+PREMIERE+NETFLIX+HBOMAX+DISNEY+STAR+APPLETV+PARAMOUNT
+
 lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e séries sem pagar nada Todo dia liberamos lista iptv fresquinhas para você aproveitar no celular, TV Box, computador ou Smart TV! perca tempo! Tenha acesso às listas mais completo atualizadas, direto no seu dispositivo Diversão garantida 100% gratuita
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
 ⚫️ DISPOSITIVOS COMPATÍVEIS
