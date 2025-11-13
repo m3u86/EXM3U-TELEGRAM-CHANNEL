@@ -41,7 +41,7 @@ https://www.iptvwell.com/internet-speed-test/
 | Qualquer nome   | Username               |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01) |484134749               |328285662                              |http://trexth.xyz:80                    |
-| LISTA IPTV (02) |1433478                 |123456                                 |http://newoneblack.site                 |
+| LISTA IPTV (02) |64364184                |22749197                               |http://newoneblack.site                 |
 | LISTA IPTV (03) |727898485695            |329965491760                           |http://lideboxr.store:80                |
 | LISTA IPTV (04) |4938258529              |2944155744                             |http://maisonxp.click:8080              |
 | LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
