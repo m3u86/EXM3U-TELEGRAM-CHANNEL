@@ -37,7 +37,9 @@ Internet speed test (06)
 
 https://www.iptvwell.com/internet-speed-test/
 
-                                                                           
+Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
+
+ Contas para o Painel IPTV                                                                        
 | Qualquer nome   | Username               |Password                               |URL                                     |
 |-----------------|------------------------|---------------------------------------|----------------------------------------|                  
 | LISTA IPTV (01) |484134749               |328285662                              |http://trexth.xyz:80                    |
