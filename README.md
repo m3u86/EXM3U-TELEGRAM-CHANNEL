@@ -52,4 +52,4 @@ https://www.iptvwell.com/internet-speed-test/
 | LISTA IPTV (10) |9841434432              |8348637187                             |http://dnsit.click:80                   |
 | LISTA IPTV (11) |1428056                 |123456                                 |http://prata23.shop                     |
 | LISTA IPTV (12) |gianccrr                |gcc123                                 |http://cvc123.com                       |
-| LISTA IPTV (13) |Marioje                 |178299cbmAA                            |http://dns.clientetv.net                |                    
+| LISTA IPTV (13) |21979983532             |thiago0102                             |http://dns.clientetv.net                |                    
