@@ -47,7 +47,7 @@ https://www.iptvwell.com/internet-speed-test/
 | LISTA IPTV (05) |valmir                  |valmir                                 |http://dgpro.cloud:80                   |
 | LISTA IPTV (06) |794498560               |398266515                              |http://d.plmv.site                      |
 | LISTA IPTV (07) |11982237031             |luciano                                |http://ibo.playmove.org                 |
-| LISTA IPTV (08) |949631178               |167675332                              |http://srv3.site                        |
+| LISTA IPTV (08) |438349145               |867766897                              |http://srv3.site                        |
 | LISTA IPTV (09) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
 | LISTA IPTV (10) |9841434432              |8348637187                             |http://dnsit.click:80                   |
 | LISTA IPTV (11) |969003341029            |006662669402                           |http://prata23.shop                     |
