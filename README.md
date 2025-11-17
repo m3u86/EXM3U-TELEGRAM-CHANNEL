@@ -50,6 +50,6 @@ https://www.iptvwell.com/internet-speed-test/
 | LISTA IPTV (08) |949631178               |167675332                              |http://srv3.site                        |
 | LISTA IPTV (09) |carloscostaveras        |99145880                               |http://dns.whazersnew.store             |
 | LISTA IPTV (10) |9841434432              |8348637187                             |http://dnsit.click:80                   |
-| LISTA IPTV (11) |1428056                 |123456                                 |http://prata23.shop                     |
+| LISTA IPTV (11) |969003341029            |006662669402                           |http://prata23.shop                     |
 | LISTA IPTV (12) |Rivelino6372            |zt6325                                 |http://cvc123.com                       |
 | LISTA IPTV (13) |21979983532             |thiago0102                             |http://dns.clientetv.net                |                    
