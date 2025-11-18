@@ -5,8 +5,8 @@ GLOBOPLAY+TELECINE+PRIMEVIDEO+PREMIERE+NETFLIX+HBOMAX+DISNEY+STAR+APPLETV+PARAMO
 lista iptv Atualizadas Grátis para Você! Quer canais fechados, filmes e séries sem pagar nada Todo dia liberamos lista iptv fresquinhas para você aproveitar no celular, TV Box, computador ou Smart TV! perca tempo! Tenha acesso às listas mais completo atualizadas, direto no seu dispositivo Diversão garantida 100% gratuita
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
 ⚫️ DISPOSITIVOS COMPATÍVEIS
-📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕  📌🔘📺𝐓𝐕 𝐁𝐎𝐗  📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃  📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑  📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 @iptvatmosp2p
-🌟PROMOÇÃO ATMOS IPTV🌟  🎁 6 HORAS DE TESTE GRÁTIS 💚 PLANOS COM 2️⃣ ACESSOS 💰 R$ 20,00 MENSAL 💰 R$ 50,00 TRIMESTRAL 💰 R$ 90,00 SEMESTRAL 💰 R$ 170,00 ANUAL
+🌟PROMOÇÃO ATMOS IPTV🌟 🎁 4 HORAS DE TESTE GRÁTIS 💚 PLANOS COM ACESSOS 💰 R$ 20,00 MENSAL 💰 R$ 55,00 TRIMESTRAL 💰 R$ 105,00 SEMESTRAL 💰 R$ 200,00 ANUAL
+⚫️ DISPOSITIVOS COMPATÍVEIS 📌🔘📺𝐒𝐌𝐀𝐑𝐓 𝐓𝐕 📌🔘📺𝐓𝐕 𝐁𝐎𝐗 📌🔘📺𝐓𝐕 𝐀𝐍𝐃𝐑𝐎𝐈𝐃 📌🔘📺𝐓𝐕 𝐑𝐎𝐊𝐔 📌🔘📱𝐂𝐄𝐋𝐔𝐋𝐀𝐑 📌🔘💻𝐍𝐎𝐓𝐄𝐁𝐎𝐎𝐊 📲 WhatsApp 🟢 PEÇA SEU TESTE: 👉 71 98453-5585 👉 71 98453-5585
 Suporte das 8h30 as 19h30 de Segunda a Sábado Listas IPTV sempre atualizadas Canais abertos, filmes, séries e esportes.
 
 👨‍💻 Web Player iptvsmarters(01)
