@@ -55,3 +55,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (11) |969003341029            |006662669402                           |http://prata23.shop                     |
 | LISTA IPTV (12) |Rivelino6372            |zt6325                                 |http://cvc123.com                       |
 | LISTA IPTV (13) |KvhF2qj56q              |Tk8ppshygd                             |http://dns.clientetv.net                |                    
+| LISTA IPTV (14) |Daniel123               |Daniel123                              |http://liderlite.mp77.site:80           |
