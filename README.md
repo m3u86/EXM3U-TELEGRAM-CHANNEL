@@ -56,3 +56,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (12) |Rivelino6372            |zt6325                                 |http://cvc123.com                       |
 | LISTA IPTV (13) |KvhF2qj56q              |Tk8ppshygd                             |http://dns.clientetv.net                |                    
 | LISTA IPTV (14) |Daniel123               |Daniel123                              |http://liderlite.mp77.site:80           |
+| LISTA IPTV (15) |eskuich                 |465691519                              |http://c4n.fun                          |                                        
