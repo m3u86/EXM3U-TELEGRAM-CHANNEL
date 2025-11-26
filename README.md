@@ -58,3 +58,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (14) |Daniel123               |Daniel123                              |http://liderlite.mp77.site:80           |
 | LISTA IPTV (15) |eskuich                 |465691519                              |http://c4n.fun                          |                                        
 | LISTA IPTV (16) |866582838               |159759854                              |http://cdn.mp77.site                    |
+| LISTA IPTV (17) |70361922648             |57120825582                            |http://zuts.ch                          |
